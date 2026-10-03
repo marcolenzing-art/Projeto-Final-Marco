@@ -1,0 +1,48 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #fff3eb;
+}
+.header {
+    height: 120px;
+    width: 100%;
+    background-color: #ffefef;
+    margin-top: -29px;
+    text-align: center;
+    font-family: "Tangerine", cursive;
+    font-size: 24px;
+    border-radius: 20px;
+    margin-left: -10px;
+}
+
+.sobre-eu {
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.onde-moro-e-vivo {
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.onde-estudo {
+     text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.o-que-gosto-de-fazer {
+    text-align: center;
+    font-size: 20px;
+    padding: 15px;
+}
+
+.footer {
+    height: 120px;
+    background-color: #e7d8d8;
+    text-align: center;
+    width: 1224px;
+    margin-left: -24px;
+}
